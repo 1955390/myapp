@@ -1,0 +1,7 @@
+streamlit
+smtplib
+bcrypt
+numpy
+pandas
+requests
+bs4
