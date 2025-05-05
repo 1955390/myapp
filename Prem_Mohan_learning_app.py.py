@@ -1,5 +1,5 @@
 import streamlit as st
-import mysql.connector
+#import mysql.connector
 import requests
 from bs4 import BeautifulSoup
 import re
@@ -7,7 +7,7 @@ import bcrypt
 from PIL import Image
 from googleapiclient.discovery import build
 import random
-import smtplib
+#import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
